@@ -1,5 +1,5 @@
 ### First question:
-![Question1](samples/Q1.png)
+![Question1](sample/Q1.png)
 
 ### Second question:
-![Question2](samples/Q2.png)
+![Question2](sample/Q2.png)
